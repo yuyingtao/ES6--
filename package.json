@@ -17,8 +17,8 @@
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2",
     "vinyl-named": "^1.1.0",
-    "webpack": "^4.41.1",
-    "webpack-stream": "^5.2.1",
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0",
     "yargs": "^14.2.0"
   },
   "devDependencies": {
